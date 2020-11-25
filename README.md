@@ -12,6 +12,8 @@ You can add or remove a movie to favorites by clicking on the heart next to the 
 
 ![alt text](https://github.com/LucasACH/flutter-movie-torrent/blob/master/screenshots/movie_torrent_4.PNG?raw=true)
 
+A search engine is also integrated. It will display the movie only if the magnet exists.
+
 ![alt text](https://github.com/LucasACH/flutter-movie-torrent/blob/master/screenshots/movie_torrent_2.PNG?raw=true)
 
 

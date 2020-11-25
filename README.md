@@ -1,16 +1,10 @@
 # movie_torrent_beta
 
-A new Flutter project.
+Desktop App that provides movies torrent magnet. It contains a "Popular" and a "Favorites" section. Searching a movie is also possible!
 
-## Getting Started
+## API Documentation
 
-This project is a starting point for a Flutter application.
+Get movie torrent magent: https://yts.mx/api
+Get movie information: https://developers.themoviedb.org/3/getting-started/introduction and http://www.omdbapi.com/
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

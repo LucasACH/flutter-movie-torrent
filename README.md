@@ -3,7 +3,8 @@
 Desktop App that provides movies torrent magnet. It contains a "Popular" and a "Favorites" section. Searching a movie is also possible!
 
 ![alt text](https://github.com/LucasACH/flutter-movie-torrent/blob/master/screenshots/movie_torrent_1.PNG?raw=true)
-*HomePage displaying gridView of the most popular movies*
+
+The main idea of this desktop aplication is to provide a torrent magnet of the selected movie, so that you can watch it on your favorite torrent client.
 
 ![alt text](https://github.com/LucasACH/flutter-movie-torrent/blob/master/screenshots/movie_torrent_2.PNG?raw=true)
 *Search result page*

@@ -8,10 +8,12 @@ The main idea of this desktop aplication is to provide a torrent magnet of the s
 
 ![alt text](https://github.com/LucasACH/flutter-movie-torrent/blob/master/screenshots/movie_torrent_3.PNG?raw=true)
 
-You can add a movie to favorites by clicking on the heart next to the title.
+You can add or remove a movie to favorites by clicking on the heart next to the title. Below, you will find two buttons. One is for watching the movie trailer and the other shows a list of magnets that you can copy and paste it on your favorite torrent client. If the magnet does not exists, a message will replace the button by saying that the movie is unavailable.
+
+![alt text](https://github.com/LucasACH/flutter-movie-torrent/blob/master/screenshots/movie_torrent_4.PNG?raw=true)
 
 ![alt text](https://github.com/LucasACH/flutter-movie-torrent/blob/master/screenshots/movie_torrent_2.PNG?raw=true)
-*Search result page*
+
 
 ## API Documentation
 

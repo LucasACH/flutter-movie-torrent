@@ -8,3 +8,4 @@ Desktop App that provides movies torrent magnet. It contains a "Popular" and a "
 - Get movie information: https://developers.themoviedb.org/3/getting-started/introduction and http://www.omdbapi.com/
 
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)

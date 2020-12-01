@@ -1,4 +1,4 @@
-# Movie Torrent
+# Movie Torrent | Flutter
 
 Desktop App that provides movies torrent magnet. It contains a "Popular" and a "Favorites" section. Searching a movie is also possible!
 
